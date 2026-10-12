@@ -19,7 +19,7 @@
 #define CFG_BK_AWARE_OUI			  "\xC8\x47\x8C"
 #define CFG_BLE_ADV_NUM				  1
 #define CFG_BLE_CONN_NUM			  1
-#define CFG_BLE_INIT_NUM			  1
+#define CFG_BLE_INIT_NUM			  0
 #define CFG_BLE_SCAN_NUM			  1
 #define CFG_BLE_USE_DYN_RAM			  1
 #define CFG_BLE_VERSION				  BLE_VERSION_5_x
